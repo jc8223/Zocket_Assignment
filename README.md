@@ -22,7 +22,7 @@ List out the key features of your application.
 Detailed instructions on how to install, configure, and get the project running.
 clone the reposiory:
 ```bash 
-git clone https://github.com/jc8223/zockett_Assignment.git
+git clone https://github.com/jc8223/zocket_Assignment.git
 
 
 Navigate to the project directory: cd zocket/cmd
